@@ -29,3 +29,6 @@
 </p>
     
 ![Snake animation](https://github.com/SemNomeChan/SemNomeChan/blob/output/github-contribution-grid-snake.svg)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SemNomeChan&repo=Tiringa-BOT&theme=tokyonight)](https://github.com/italuH/Tiringa-BOT)
+___
