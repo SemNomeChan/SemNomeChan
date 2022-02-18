@@ -29,4 +29,6 @@
 </p>
     
 ![Snake animation](https://github.com/SemNomeChan/SemNomeChan/blob/output/github-contribution-grid-snake.svg)
+    
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SemNomeChan&repo=SemNomeChan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&show_icons=true)](https://github.com/SemNomeChan/SemNomeChan)
 ___
