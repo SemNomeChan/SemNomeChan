@@ -17,17 +17,7 @@
 <p align="center">
   <a href="https://github.com/SemNomeChan"><img src="https://cardivo.vercel.app/api?name=𝙎𝙀𝙈 𝙉𝙊𝙈𝙀  么 &description=Olá, eu sou o Sem Nome, Apena um cara que gosta de programação 💫 &image=https://avatars.githubusercontent.com/u/99937442?s=400&u=ef11c2c3f0ae17fb7b51feaca3f4f56048dd28f5&v=4&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=𝙮𝙪𝙪𝙠𝙞ぁ&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
-    
-### 💻 Ferramentas e Tecnologias
-
-<p>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-    
+     
 ![Snake animation](https://github.com/SemNomeChan/SemNomeChan/blob/output/github-contribution-grid-snake.svg)
     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SemNomeChan&repo=SemNomeChan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&show_icons=true)](https://github.com/SemNomeChan/SemNomeChan)
