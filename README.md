@@ -24,3 +24,4 @@
 ___    
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=SemNomeChan&show_icons=true&theme=radical)
 ___
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemNomeChan)](https://github.com/SemNomeChan/SemNomeChan)
