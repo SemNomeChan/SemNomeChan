@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SemNomeChan"><img src="https://cardivo.vercel.app/api?name=𝙎𝙀𝙈 𝙉𝙊𝙈𝙀  么 &description=Olá, eu sou o Sem Nome, Apena um cara que gosta de programação 💫 &image=https://avatars.githubusercontent.com/u/99937442?s=400&u=ef11c2c3f0ae17fb7b51feaca3f4f56048dd28f5&v=4&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=𝙮𝙪𝙪𝙠𝙞ぁ&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/SemNomeChan"><img src="https://cardivo.vercel.app/api?name=𝙎𝙀𝙈 𝙉𝙊𝙈𝙀  么 &description=Olá, eu sou o Sem Nome, Apena um cara que gosta de programação 💫 &image=https://avatars.githubusercontent.com/u/99937442?s=400&u=ef11c2c3f0ae17fb7b51feaca3f4f56048dd28f5&v=4&usqp=CAU&usqp=CAU&backgroundColor=%000000&github=𝙮𝙪𝙪𝙠𝙞ぁ&pattern=plus&colorPattern=%23eaeaea&fontcolor=%ff00ff" /><a>
 </p>
      
 ![Snake animation](https://github.com/SemNomeChan/SemNomeChan/blob/output/github-contribution-grid-snake.svg)
