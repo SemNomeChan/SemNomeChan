@@ -14,14 +14,11 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
-<p align="center">
-<a href="https://github.com/SemNomeChan"><img src="https://cardivo.vercel.app/api?name=𝙎𝙀𝙈 𝙉𝙊𝙈𝙀  么 &description=Olá, eu sou o Sem Nome, Apena um cara que gosta de programação 💫 &image=https://avatars.githubusercontent.com/u/99937442?s=400&u=ef11c2c3f0ae17fb7b51feaca3f4f56048dd28f5&v=4&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=𝙮𝙪𝙪𝙠𝙞ぁ&pattern=leaf&colorPattern=%23eaeaea"
-  /><a>
-</p>
-     
 ![Snake animation](https://github.com/SemNomeChan/SemNomeChan/blob/output/github-contribution-grid-snake.svg)
     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SemNomeChan&repo=SemNomeChan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&show_icons=true)](https://github.com/SemNomeChan/SemNomeChan)
-___    
-![ReadMe Card](https://github-readme-stats.vercel.app/api?username=SemNomeChan&show_icons=true&theme=radical)
-___
+
+<div>
+<a href="https://github.com/SemNomeChan">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SemNomeChan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
