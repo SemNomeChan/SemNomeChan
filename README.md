@@ -10,7 +10,11 @@
 
 ***
 
+<div align="center">
+
 ### Skills
+
+</div>
 
 <p>
      <img width="111" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -24,7 +28,11 @@
 
 ***
 
+<div align="center">
+
 ### Frameworks
+
+</div>
 
 <p>
      <img width="90" src="https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestJS">
@@ -36,9 +44,13 @@
 
 ***
 
+<div align="center">
+
 ### Tools
 
-<p>
+</div>
+
+<p align="center">
      <img width="180" src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=visualstudiocode"/>
      <img width="180" src="https://img.shields.io/badge/-Windows Terminal-black?style=flat-square&logo=windowsterminal"/>
 </p>
