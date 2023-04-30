@@ -48,8 +48,8 @@
  
 <div>
   <a href="https://github.com/SemNomeChan">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SemNomeChan&repo=SemNomeChan&text_color=ff4500&theme=midnight-purple&show_icons=true"/>
-    <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=SemNomeChan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&text_color=ff4500"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SemNomeChan&repo=SemNomeChan&text_color=ff4500&theme=midnight-purple&show_icons=true"/>
+    <img height="140em" align="right" src="https://github-readme-stats.vercel.app/api?username=SemNomeChan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&text_color=ff4500"/>
   </div>
   
   </br>
