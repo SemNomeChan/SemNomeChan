@@ -1,15 +1,16 @@
 
 <img align="right" src="https://media2.giphy.com/media/cKtQKy2VylZC0/giphy.gif?cid=ecf05e47ev7qxe8jyadj44whujjqb5pc8bk2rfl1zyesewhw&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
+<div align="center">
+
 ### Hello world!
 
 > Esse é o meu perfil no github
+</div>
 
 ***
 
 ### Skills
-
-
 
 <p>
      <img width="111" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
